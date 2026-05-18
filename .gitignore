@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.idea/
+.vscode/
+model/model.pkl
+model/model_metadata.json
+data/alumnos_sinteticos.csv
+data/muestra_alumnos.csv
