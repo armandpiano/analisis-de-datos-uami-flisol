@@ -1,3 +1,6 @@
+# Autor: Armando Vazquez
+
+
 # INSTRUCCIONES DE USO
 
 Prediccion de Abandono Estudiantil - **UAM Iztapalapa**
